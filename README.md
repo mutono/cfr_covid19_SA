@@ -10,4 +10,4 @@ The project includes three folders:
 
 ## Code folder
 This has the following script:
-- epicurve plots.R: This script uses the cleaned data from the data folder (owid-rsa.csv) to plot the reported cases, reported deaths and the case fatality rate (CFR) with zero lag, 15 day lag and a function that chooses the maximum lag based on the user input to plot the CFR.
+- epicurve plots.R: This script uses the downloaded data from the data folder (owid-rsa.csv: data has been downloaded from our world in data) to plot the reported cases, reported deaths and the case fatality rate (CFR) with zero lag, 15 day lag and a function that chooses the maximum lag based on the user input to plot the CFR.
