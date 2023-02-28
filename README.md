@@ -1,4 +1,4 @@
-# cfr_covid19_SA
+# Case fatality rate for COVID-19 in South Africa
 This is a case fatality ratio for COVID-19 in South Africa.
 It is for tutorial purposes and helps the user (me) to solve organizational issues of projects and 
 appreciate the importance of implementing a structure for a project.
